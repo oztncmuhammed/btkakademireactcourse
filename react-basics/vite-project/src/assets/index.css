@@ -1,0 +1,12 @@
+.title {
+  color: brown;
+}
+.price {
+  color: blue;
+  font-weight: bold;
+}
+
+.discount {
+  color: green;
+  font-weight: bold;
+}
